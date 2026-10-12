@@ -1,6 +1,4 @@
-# Bookworm — NLP Engine for Project Gutenberg
-
-> A command-line NLP engine that turns any Project Gutenberg book into a "book card": lexical diversity, topics, characters and places, an extractive summary and similar books.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Bookworm — An NLP engine turning any Project Gutenberg book into a book card: diversity, topics, entities, summary." src="assets/banner-light.png"></picture>
 
 **Epitech Bachelor · Year 1 · AI module (B-AIA-200) · Mar 2026**
 Source code is private under Epitech's academic policy. Happy to walk you through it or run it live → **imran.nogueira@gmail.com**
