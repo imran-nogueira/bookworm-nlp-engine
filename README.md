@@ -27,7 +27,7 @@ Example — `--lexdiv 11` (*Alice's Adventures in Wonderland*): 26,706 tokens, 2
 | Language | Python, argparse CLI |
 | NLP | NLTK (tokenization, POS tagging, lemmatization/stemming) |
 | ML | scikit-learn — TfidfVectorizer, TruncatedSVD, cosine similarity |
-| Quality | pytest — 61 tests on the toolbox and CLI |
+| Quality | pytest — 41 tests on the toolbox |
 
 ## Key decisions
 
